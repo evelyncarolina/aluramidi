@@ -25,6 +25,8 @@
 * Iteração de listas
 * Eventos e lógicas
 
+### 😍 [CLIQUE E DIVIRTA-SE](https://projeto-aluramidi.vercel.app/)
+
 ### Comandos Usados
 `document` cria um novo objeto Document que é uma página da Web carregada no navegador e servindo como um ponto de entrada no conteúdo da página em HTML.
 
